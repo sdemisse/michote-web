@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1445" height="621" viewBox="0 0 1445 621">
+  <defs>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="1445" height="621"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <g id="Symbols" transform="translate(0 0.933)">
+      <g id="Footer" transform="translate(0 -39)">
+        <path id="Footer_bg" d="M0,84.325Q364.5,6.5,720,62.5t725,21.825V660H0Z" fill="#4caf50" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>
