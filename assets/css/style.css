@@ -1562,7 +1562,12 @@ textarea.form-control {
   margin-top: 0.25rem;
   font-size: 80%;
   color: #28a745; }
-
+.btn-image-apple {
+background-image: url("../../assets/images/App_Store.svg");
+/* background-position: -9px -7px; */
+background-repeat: no-repeat;
+background-size: contain;
+}
 .valid-tooltip {
   position: absolute;
   top: 100%;
